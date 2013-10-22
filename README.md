@@ -1,0 +1,1 @@
+Support for android support libraries that are not in the maven repository yet.
